@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.tab-button {
+  background-color: transparent;
+  border: 0px;
+  border-bottom: solid #dfe2e5 2px;
+  margin: 5px;
+  color: #7b8794;
+  font-family: 'Roboto';
+  font-size: 18px;
+}
+.tab-button-active {
+  background-color: transparent;
+  border: 0px;
+  border-bottom: solid #2563eb 2px;
+  margin: 5px;
+  color: #7b8794;
+  font-family: 'Roboto';
+  font-size: 18px;
+}
